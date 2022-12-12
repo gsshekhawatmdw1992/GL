@@ -1,1 +1,2 @@
-var hello = "Hello "; // test comment
+var hello = "Hello ";
+var test = "tklt";
